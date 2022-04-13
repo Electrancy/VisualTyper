@@ -1,5 +1,7 @@
 # VisualTyper
 
+This is a tool for streaming. If you're a software & game development streamer, then you know it's very important for people to see what you're typing. This tool helps you do that by recording what you type and putting it into a website which you can add to your stream as an overlay.
+
 To launch, type:
 
 $ node index.js
