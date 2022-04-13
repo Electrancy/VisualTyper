@@ -1,0 +1,19 @@
+{
+  "name": "visualtyper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "capslock": "^1.0.2",
+    "express": "^4.17.3",
+    "gkm": "^0.2.0",
+    "iohook": "^0.9.3",
+    "socket.io": "^4.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
